@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\032_MidLab\032_MidLab\bin\Debug\032_MidLab.exe.config
+C:\Users\Admin\source\repos\032_MidLab\032_MidLab\bin\Debug\032_MidLab.exe
+C:\Users\Admin\source\repos\032_MidLab\032_MidLab\bin\Debug\032_MidLab.pdb
+C:\Users\Admin\source\repos\032_MidLab\032_MidLab\obj\Debug\032_MidLab.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\032_MidLab\032_MidLab\obj\Debug\_032_MidLab.Form1.resources
+C:\Users\Admin\source\repos\032_MidLab\032_MidLab\obj\Debug\_032_MidLab.Properties.Resources.resources
+C:\Users\Admin\source\repos\032_MidLab\032_MidLab\obj\Debug\032_MidLab.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\032_MidLab\032_MidLab\obj\Debug\032_MidLab.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\032_MidLab\032_MidLab\obj\Debug\032_MidLab.exe
+C:\Users\Admin\source\repos\032_MidLab\032_MidLab\obj\Debug\032_MidLab.pdb
